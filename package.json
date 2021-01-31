@@ -1,0 +1,60 @@
+{
+  "name": "quasar-admin",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Quasar Admin",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "pratikpatelpp802@gmail.com",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "apexcharts": "^3.16.0",
+    "axios": "^0.21.1",
+    "echarts": "^4.6.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "lg-autoplay": "^1.2.1",
+    "lg-fullscreen": "^1.2.1",
+    "lg-hash": "^1.0.4",
+    "lg-pager": "^1.0.2",
+    "lg-rotate": "^1.2.1",
+    "lg-share": "^1.2.1",
+    "lg-thumbnail": "^1.2.1",
+    "lg-video": "^1.4.0",
+    "lg-zoom": "^1.3.0",
+    "lightgallery": "^1.10.0",
+    "lightgallery.js": "^1.4.0",
+    "popper.js": "^1.16.1",
+    "quasar": "^1.0.0",
+    "socket.io": "^3.1.0",
+    "socket.io-client": "^2.4.0",
+    "socket.io-stream": "^0.9.1",
+    "vue-apexcharts": "^1.5.2",
+    "vue-echarts-v3": "^2.0.1",
+    "vue-file-picture-input": "^1.0.4",
+    "vue-i18n": "^8.0.0",
+    "vue-plugin-load-script": "^1.3.2",
+    "vue-socket.io": "^3.0.10",
+    "vue-socket.io-extended": "^4.0.6",
+    "vue-template-compiler": "^2.6.12",
+    "vue-upload-multiple-image": "^1.1.6",
+    "vuedraggable": "^2.23.2"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-qcalendar": "^1.5.6",
+    "quasar-app-extension-qhierarchy": "0.0.1"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
